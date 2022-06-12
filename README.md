@@ -1,1 +1,1 @@
-https://github.com/jevgenix/oHTu/workflows/CI/badge.svg
+![GitHub Actions](https://github.com/jevgenix/oHTu/workflows/CI/badge.svg)
