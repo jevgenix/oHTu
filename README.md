@@ -1,1 +1,1 @@
-# oHTu
+https://github.com/jevgenix/oHTu/workflows/CI/badge.svg
